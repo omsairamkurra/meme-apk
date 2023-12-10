@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meme-apk/static/css/main.f96f07a4.css",
+    "main.js": "/meme-apk/static/js/main.44b752b7.js",
+    "static/js/787.ed2a5d21.chunk.js": "/meme-apk/static/js/787.ed2a5d21.chunk.js",
+    "index.html": "/meme-apk/index.html",
+    "main.f96f07a4.css.map": "/meme-apk/static/css/main.f96f07a4.css.map",
+    "main.44b752b7.js.map": "/meme-apk/static/js/main.44b752b7.js.map",
+    "787.ed2a5d21.chunk.js.map": "/meme-apk/static/js/787.ed2a5d21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.44b752b7.js"
+  ]
+}
